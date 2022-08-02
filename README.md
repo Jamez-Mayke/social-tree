@@ -6,5 +6,5 @@ Exemplo do desafio:
 ![Imagem do desafio proposto](images-readme/Captura%20de%20Tela%202022-05-11%20%C3%A0s%2013.44.29.png)
 
 
-Agora como ficou após estilizar algumas coisas
-![Vídeo ilustrativo do resultado final](video/adicionando-alteracoes.mov)
+Agora como ficou após estilização
+![Vídeo ilustrativo do resultado final](video/adicionando-alteracoes.gif)

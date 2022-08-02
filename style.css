@@ -30,7 +30,14 @@ img {
   text-align: center;
 }
 
+.header, .main {
+  align-items: center;
+  justify-content: center;
+}
+
 .header img {
+  width: 160px;
+  height: 160px;
   border: 2px solid var(--purple);
   border-radius: 50%;
   padding: 4px;

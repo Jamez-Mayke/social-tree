@@ -21,7 +21,18 @@ img {
   max-width: 100%;
 }
 
+.bg-header {
+  width: 100vw;
+  height: 33vh;
+  background-image: url("./images/bg-header-space.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  position: absolute;
+}
+
 .container {
+  position: relative;
   display:flex;
   height: 100vh;
   flex-direction: column;

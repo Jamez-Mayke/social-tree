@@ -61,6 +61,14 @@ img {
 }
 
 .links li a {
+  transition: 300ms;
+}
+.links li a:hover {
+  background-color: #bb99dd8f;
+  color: white;
+}
+
+.links li a {
   display: inline-block;
   min-width: 350px;
   text-decoration: none;
